@@ -1,6 +1,6 @@
 # EmailAdministratorApp
 > Email Application
-**Senario: You can an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.**
+**#Senario: You can an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.**
 
 * Your appication should do the following:
 * Generate an email  with the following syntax: firstname.lastname@department.student.ctu.edu.vn
